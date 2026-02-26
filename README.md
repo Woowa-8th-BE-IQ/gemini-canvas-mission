@@ -7,7 +7,7 @@
 
 ## 1. 웹앱 (4개)
 
-### ## 앱 이름: Backend DevFlow (IQ Edition)
+### ## 앱 이름: Backend DevFlow
 ## 카테고리: 유틸리티 앱
 
 ### 배포 링크
@@ -30,7 +30,7 @@
 
 ---
 
-### ## 앱 이름: Dev Duel: IQ Fighter (Final Evolution)
+### ## 앱 이름: Dev Duel: IQ Fighter
 ## 카테고리: 게임
 
 ### 배포 링크
@@ -52,7 +52,7 @@
 
 ---
 
-### ## 앱 이름: Deep Dive DB & JPA Visualizer (IQ Edition)
+### ## 앱 이름: JPA Visualizer
 ## 카테고리: 학습 앱
 
 ### 배포 링크
@@ -74,7 +74,7 @@
 
 ---
 
-### ## 앱 이름: 위태위태 행성 쌓기 (Balance Planet Duo)
+### ## 앱 이름: Balance Planet Duo
 ## 카테고리: 페어 프롬프트 릴레이 (게임)
 
 ### 배포 링크
